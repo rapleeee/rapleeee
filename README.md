@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am new to learning to become a frontend developer. <br>If I don't know something or make a mistake, please help me out.<br>
+I am new to learning to become a Software Engineer. <br>If I don't know something or make a mistake, please help me out.<br>
 
 
 ## 🌐 Socials:
